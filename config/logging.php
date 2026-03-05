@@ -22,7 +22,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Deprecations Log Channel
+    | Deprecations Log Channel- Este es una prueba1
     |--------------------------------------------------------------------------
     |
     | This option controls the log channel that should be used to log warnings
